@@ -1,0 +1,6 @@
+/* public/style.css */
+body { font-family: sans-serif; margin:2em; }
+h1 { margin-bottom:1em; }
+table { border-collapse: collapse; width:100%; margin-bottom:1em; }
+th,td { border:1px solid #ccc; padding:0.5em; text-align:left;}
+a { color: #0366d6; text-decoration: none; }
