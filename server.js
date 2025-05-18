@@ -74,4 +74,4 @@ app.post('/create', (req, res) => {
   }).connect(VPS);
 });
 
-app.listen(3000, () => console.log('Panel berjalan di http://localhost:3000'));
+app.listen(3000, () => console.log('Panel berjalan di http://54.179.100.131:3000'));
